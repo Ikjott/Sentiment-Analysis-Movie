@@ -1,4 +1,4 @@
-# sentiment-analysis by Robin Singh Patiyal
+# sentiment-analysis by Ikjot Singh
 
 ## Sentiment analysis using NLP and Flask
 
